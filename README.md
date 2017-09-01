@@ -11,5 +11,4 @@ UBD Timelapse is a script based solution, that provides functionality of:
 Solution can be executed partly in Linux OS (bash shell) and Windows OS (console).  
 For more information see [repository Wiki pages](https://github.com/STwilight/UBD-Timelapse/wiki).
 
-Solution contains third party binaries ([FFmpeg tool](https://www.ffmpeg.org/) (static builds) for Windows and Linux and [CRC32 sum calculation tool](http://esrg.sourceforge.net/utils_win_up/md5sum/) for Windows).  
-All ownership of these products fully belong to their right holders.
+Solution contains third party binaries ([FFmpeg tool](https://www.ffmpeg.org/) (static builds) for Windows and Linux and [CRC32 sum calculation tool](http://esrg.sourceforge.net/utils_win_up/md5sum/) for Windows). All ownership of these products fully belong to their right holders.
