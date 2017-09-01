@@ -1,5 +1,5 @@
 # UBD-Timelapse
-**Primary project purpose:** creation simple lightweight system for easy monitoring of building rates for houses.
+**Primary project purpose:** creation of simple lightweight system for easy monitoring of building rates for houses.
 
 UBD Timelapse is a script based solution, that provides functionality of:
 - fetching video on URL link (video file or stream in .mp4 format);
